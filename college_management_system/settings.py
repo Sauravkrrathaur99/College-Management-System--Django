@@ -57,7 +57,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'college_management_system.wsgi.application'
 
 
-DATABASES = {'default':dj_database_url.config(default='postgres://postgres:16052010@localhost/collegerpm4u_db')}
+DATABASES = {'default':dj_database_url.config(default='postgres://postgres:16052010@localhost/collegerp4u_db')}
 
 
 # Password validation
