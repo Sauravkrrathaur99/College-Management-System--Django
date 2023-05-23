@@ -1,4 +1,6 @@
 # College_ERP_System-Django
 
+#To run this Project 
 
-#Live Project Link :     https://e-college4u.herokuapp.com/
+
+
